@@ -1,7 +1,8 @@
 #Área,Política,Grupo,Programa,Subprograma,Descripción
 #
-# Áreas de gasto y Políticas, definidas en la Orden HAP/419/2014 y comunes a todas las EELL.
-# Ver http://www.boe.es/diario_boe/txt.php?id=BOE-A-2014-2922
+# Áreas de gasto y Políticas, modificadas por la Orden HAP/419/2014 y comunes a todas las EELL.
+# Ver la orden en http://www.boe.es/diario_boe/txt.php?id=BOE-A-2014-2922 y el
+# texto refundido en http://boe.es/buscar/act.php?id=BOE-A-2008-19916
 0,,,,Deute públic
 0,1,,,Deute públic
 1,,,,Serveis públics bàsics
@@ -32,6 +33,29 @@
 9,2,,,Serveis de caràcter general
 9,3,,,Administració financera i tributària
 9,4,,,Transferències a altres administracions públiques
+1,5,2,1,Promoció i gestió d’habitatge de protecció pública
+1,5,2,2,Conservació i rehabilitació de l’edificació
+1,5,3,1,Accés als nuclis de població
+1,5,3,2,Pavimentació de vies públiques
+1,6,2,1,Recollida de residus
+1,6,2,2,Gestió de residus sòlids urbans
+1,6,2,3,Tractament de residus
+1,7,2,1,"Protecció contra la contaminació acústica, lumínica i atmosfèrica en les zones urbanes"
+3,3,2,1,Biblioteques públiques
+3,3,2,2,Arxius
+4,3,1,1,Fires
+4,3,1,2,"Mercats, places i llotges"
+4,3,1,3,Comerç ambulant
+4,4,1,1,Transport col·lectiu urbà de viatgers
+4,4,1,2,Altre transport de viatgers
+9,2,3,1,Gestió del padró municipal d’habitants
+#
+# Programas antiguos desdoblados por la Orden HAP/419/2014
+#
+3,2,A,0,Ensenyament preescolar i primària
+3,2,B,0,Ensenyament secundar
+3,2,C,0,Promoció educativa
+4,4,A,0,"Promoció, manteniment i desenvolupament del transport"
 #
 # Programas específicos de Cheste
 #

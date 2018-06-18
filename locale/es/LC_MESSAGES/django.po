@@ -31,9 +31,9 @@ msgid ""
 "General del Estado y del Gobierno de Aragón, que son los encargados de recaudar otros "
 "ingresos como el IVA y el IRPF"
 msgstr ""
-"El dinero recaudado localmente se complementa con las transferencias de la Administración "
-"General del Estado y de la Comunidad de Cheste, que son los encargados de recaudar otros "
-"ingresos como el IVA y el IRPF"
+"La recaudación local se complementa con las transferencias y subvenciones de la "
+"Administración General del Estado y de la Generalidad Valenciana (entidades encargadas "
+"de recaudar ingresos como el IVA y el IRPF)"
 
 #: templates/budgets/index.html:17
 msgid "Ingresos y gastos en el Gobierno de Aragón"
@@ -47,7 +47,7 @@ msgstr "Ayuntamiento de Cheste"
 
 #: templates/shared/data_sources.html:9
 msgid "Datos de inflación (Medias anuales de IPC para Aragón)"
-msgstr "Datos de inflación (Medias anuales de IPC para la Comunidad de Cheste)"
+msgstr "Datos de inflación (Medias anuales de IPC para la Comunidad Valenciana)"
 
 #: templates/shared/data_sources.html:14
 msgid "Los ingresos y gastos mostrados incluyen únicamente al Gobierno de Aragón"

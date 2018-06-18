@@ -99,7 +99,7 @@ FACEBOOK_ID             = ''
 ANALYTICS_ID            = ''
 
 # Setup Data Source Budget link
-DATA_SOURCE_BUDGET      = ''
+DATA_SOURCE_BUDGET      = 'http://www.transparencia-cheste.es/area/Transparencia-Economico-Financiera'
 
 # Setup Data Source Population link
 DATA_SOURCE_POPULATION  = ''
@@ -108,16 +108,16 @@ DATA_SOURCE_POPULATION  = ''
 DATA_SOURCE_INFLATION   = ''
 
 # Setup Main Entity Web Url
-MAIN_ENTITY_WEB_URL     = ''
+MAIN_ENTITY_WEB_URL     = 'http://www.cheste.es/'
 
 # Setup Main Entity Legal Url (if empty we hide the link)
-MAIN_ENTITY_LEGAL_URL   = ''
+MAIN_ENTITY_LEGAL_URL   = 'http://www.cheste.es/content/aviso-legal'
 
 # Setup Main Entity Legal Url (if empty we hide the link)
-MAIN_ENTITY_PRIVACY_URL = ''
+MAIN_ENTITY_PRIVACY_URL = 'http://www.cheste.es/content/politica-privacidad'
 
 # External URL for Cookies Policy (if empty we use out template page/cookies.html)
-COOKIES_URL             = ''
+COOKIES_URL             = 'http://www.cheste.es/cookie-info'
 
 # We can define additional URLs applicable only to the theme. These will get added
 # to the project URL patterns list.

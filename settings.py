@@ -102,10 +102,10 @@ ANALYTICS_ID            = ''
 DATA_SOURCE_BUDGET      = 'http://www.transparencia-cheste.es/area/Transparencia-Economico-Financiera'
 
 # Setup Data Source Population link
-DATA_SOURCE_POPULATION  = ''
+DATA_SOURCE_POPULATION  = 'http://www.ine.es/jaxiT3/Datos.htm?t=2903'
 
 # Setup Data Source Inflation link
-DATA_SOURCE_INFLATION   = ''
+DATA_SOURCE_INFLATION   = 'http://www.ine.es/jaxiT3/Tabla.htm?t=22350&L=0'
 
 # Setup Main Entity Web Url
 MAIN_ENTITY_WEB_URL     = 'http://www.cheste.es/'

@@ -64,12 +64,15 @@
 1,3,3,0,Ordenació del trànsit i de l’estacionament
 1,3,5,0,Protecció civil
 1,5,1,0,"Urbanisme: planejament, gestió, execució i disciplina urbanística"
+1,5,3,0,Vies públiques
 1,6,0,0,Clavegueram
 1,6,1,0,Proveïment domiciliari d’aigua potable
+1,6,2,0,"Recollida, gestió i tractament de residus"
 1,6,3,0,Neteja viària
 1,6,4,0,Cementiris i serveis funerariss
 1,6,5,0,Enllumenat públic
 1,7,1,0,Parcs i jardins
+1,7,2,0,Protecció i millora del medi ambient
 2,3,0,0,Serveis socials i promoció social
 2,3,1,0,Assistència social primària
 2,3,1,1,Lloguer social
@@ -92,6 +95,7 @@
 4,1,0,0,"Administració general d’agricultura, ramaderia i pesca"
 4,1,4,0,Desenvolupament rural
 4,2,2,0,Indústria
+4,3,1,0,Comerç
 4,3,2,0,Informació i promoció turística
 4,5,4,0,Camins veïnals
 9,1,2,0,Òrgans de govern
@@ -102,3 +106,10 @@
 9,3,3,0,Gestió del patrimoni
 9,3,4,0,Gestió del deute i de la tresoreria
 9,4,2,0,Transferències a entitats locals territorials
+#
+# Programas antiguos específicos de Cheste
+#
+1,6,9,0,Altres serveis de benestar comunitari
+3,3,2,0,Biblioteques i arxius
+3,3,5,0,Artes escénicas
+3,3,9,0,Otras actuaciones en cultura

@@ -16,6 +16,9 @@ programme_mapping = {
     '1350': '1360',     # Servicio de prevención y extinción de incendios
     '1530': '1520',     # Vivienda
     '1550': '1530',     # Vías públicas
+    '1790': '1720',     # Protección y mejora del medio ambiente
+    '2340': '2310',     # Asistencia social primaria
+    '2350': '2310',     # Asistencia social primaria
     '3130': '3110',     # Protección de la salubridad pública
     '3210': '32A0',     # Enseñanza preescolar y primaria (desdoblado)
     '3220': '32B0',     # Enseñanza secundaria (desdoblado)

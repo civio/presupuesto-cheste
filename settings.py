@@ -146,33 +146,32 @@ OVERVIEW_USE_NEW_VIS = True
 OVERVIEW_INCOME_NODES = [
                           {
                             'nodes': [['11', '113']],
-                            'label': 'Impuesto a bienes inmuebles de naturaleza urbana',
+                            'label.es': 'Impuesto sobre bienes inmuebles de naturaleza urbana',
+                            'label.ca': 'Impost sobre béns immobles de naturalesa urbana',
                             'link_id': '11'
                           },
                           {
-                            'nodes': [['30', '300']],
-                            'label': 'Servicio de abastecimiento de agua',
-                            'link_id': '30'
-                          },
-                          '42', '45',
-                          {
-                            'nodes': [['29', '293']],
-                            'label': 'Impuesto general indirecto canario (IGIC)',
-                            'link_id': '29'
-                          },
-                          {
                             'nodes': [['11', '115']],
-                            'label': 'Impuesto sobre vehículos de tracción mecánica',
+                            'label.es': 'Impuesto sobre vehículos de tracción mecánica',
+                            'label.ca': 'Impost sobre vehicles de tracció mecànica',
                             'link_id': '11'
                           },
                           {
                             'nodes': [['30', '302']],
-                            'label': 'Servicio de recogida de basuras',
+                            'label.es': 'Servicio de recogida de basuras',
+                            'label.ca': 'Servei de recollida d\'escombraries',
                             'link_id': '30'
                           },
+                          {
+                            'nodes': ['33'],
+                            'label.es': 'Tasas por la utilización privativa del dominio público',
+                            'label.ca': 'Taxes per la utilització privativa del domini públic',
+                            'link_id': '33'
+                          },
+                          '42', '13', '29',
                         ]
 
-OVERVIEW_EXPENSE_NODES = ['16', '13', '92', '15', '33', '23', '34', '17', '32']
+OVERVIEW_EXPENSE_NODES = ['92', '23', '13', '16', '32', '33', '15', '34', '17']
 
 # How much padding between Sankey nodes. Default: 2 (Optional)
 # OVERVIEW_NODE_PADDING = 2

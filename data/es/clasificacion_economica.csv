@@ -10,11 +10,11 @@ I,1,0,2,Impuesto sobre la Renta de no residentes
 I,1,1,,Impuestos sobre el capital
 I,1,1,0,Impuesto sobre sucesiones y donaciones
 I,1,1,1,Impuesto sobre patrimonio
-I,1,1,2,Sobre bienes inmuebles de naturaleza rústica
-I,1,1,3,Sobre bienes inmuebles de naturaleza urbana
-I,1,1,4,Sobre bienes inmuebles de características especiales
+I,1,1,2,Impuesto sobre bienes inmuebles de naturaleza rústica
+I,1,1,3,Impuesto sobre bienes inmuebles de naturaleza urbana
+I,1,1,4,Impuesto sobre bienes inmuebles de características especiales
 I,1,1,5,Impuesto sobre vehículos de tracción mecanica
-I,1,1,6,Impuesto sobre incremento del valor de los terrenos de naturaleza urbana
+I,1,1,6,Impuesto sobre el incremento del valor de los terrenos de naturaleza urbana
 I,1,1,7,Impuesto sobre viviendas desocupadas
 I,1,3,,Impuesto sobre las actividades económicas
 I,1,3,0,Impuesto sobre actividades económicas

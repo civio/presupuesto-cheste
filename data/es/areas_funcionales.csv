@@ -50,13 +50,6 @@
 4,4,1,2,Otro transporte de viajeros
 9,2,3,1,Gestión del padrón municipal de habitantes
 #
-# Programas antiguos desdoblados por la Orden HAP/419/2014
-#
-3,2,A,0,Enseñanza preescolar y primaria
-3,2,B,0,Enseñanza secundaria
-3,2,C,0,Promoción educativa
-4,4,A,0,"Promoción, mantenimiento y desarrollo del transporte"
-#
 # Programas específicos de Cheste
 #
 0,1,1,0,Deuda pública
@@ -67,7 +60,6 @@
 1,5,3,0,Vías públicas
 1,6,0,0,Alcantarillado
 1,6,1,0,Abastecimiento domiciliario de agua potable
-1,6,2,0,"Recogida, gestión y tratamiento de residuos"
 1,6,3,0,Limpieza viaria
 1,6,4,0,Cementerios y servicios funerarios
 1,6,5,0,Alumbrado público
@@ -109,7 +101,4 @@
 #
 # Programas antiguos específicos de Cheste
 #
-1,6,9,0,Otros servicios de bienestar comunitario
 3,3,2,0,Bibliotecas y archivos
-3,3,5,0,Arts escèniques
-3,3,9,0,Altres actuacions en cultura

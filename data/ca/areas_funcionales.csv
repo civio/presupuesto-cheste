@@ -52,9 +52,6 @@
 #
 # Programas antiguos desdoblados por la Orden HAP/419/2014
 #
-3,2,A,0,Ensenyament preescolar i primària
-3,2,B,0,Ensenyament secundar
-3,2,C,0,Promoció educativa
 4,4,A,0,"Promoció, manteniment i desenvolupament del transport"
 #
 # Programas específicos de Cheste
@@ -67,7 +64,6 @@
 1,5,3,0,Vies públiques
 1,6,0,0,Clavegueram
 1,6,1,0,Proveïment domiciliari d’aigua potable
-1,6,2,0,"Recollida, gestió i tractament de residus"
 1,6,3,0,Neteja viària
 1,6,4,0,Cementiris i serveis funerariss
 1,6,5,0,Enllumenat públic
@@ -109,7 +105,4 @@
 #
 # Programas antiguos específicos de Cheste
 #
-1,6,9,0,Altres serveis de benestar comunitari
 3,3,2,0,Biblioteques i arxius
-3,3,5,0,Artes escénicas
-3,3,9,0,Otras actuaciones en cultura

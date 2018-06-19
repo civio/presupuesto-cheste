@@ -15,16 +15,20 @@ programme_mapping = {
     '1340': '1350',     # Protección Civil
     '1350': '1360',     # Servicio de prevención y extinción de incendios
     '1530': '1520',     # Vivienda
-    '1550': '1530',     # Vías públicas
+    '1550': '1532',     # Pavimentación de vías públicas
+    '1620': '1621',     # Recogida de residuos
     '1790': '1720',     # Protección y mejora del medio ambiente
     '2340': '2310',     # Asistencia social primaria
     '2350': '2310',     # Asistencia social primaria
     '3130': '3110',     # Protección de la salubridad pública
-    '3210': '32A0',     # Enseñanza preescolar y primaria (desdoblado)
-    '3220': '32B0',     # Enseñanza secundaria (desdoblado)
-    '3230': '32C0',     # Promoción educativa (desdoblado)
+    '3210': '3230',     # Funcionamiento de centros docentes de enseñanza infantil y primaria
+    '3220': '3240',     # Funcionamiento de centros docentes de enseñanza secundaria
+    '3230': '3260',     # Servicios complementarios de educación
     '3240': '3260',     # Servicios complementarios de educación
-    '4410': '44A0',     # Promoción, mantenimiento y desarrollo del transporte (desdoblado)
+    '3350': '3340',     # Promoción cultural
+    '3390': '3340',     # Promoción cultural
+    '4310': '4312',     # Mercados, abastos y lonjas
+    '1690': '9200',     # Administración general (cambia la política, pero es lo que mejor se adapta)
 }
 
 

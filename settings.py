@@ -92,11 +92,11 @@ LANGUAGES = (
 
 # Facebook Aplication ID used in social_sharing temaplate. Default: ''
 # In order to get the ID create an app in https://developers.facebook.com/
-FACEBOOK_ID             = ''
+FACEBOOK_ID             = '240259903404038'
 
 # Google Analytics ID. Default: ''
 # In order to get the ID create a Google Analytics Acount in https://analytics.google.com/analytics/web/
-ANALYTICS_ID            = ''
+ANALYTICS_ID            = 'UA-28946840-45'
 
 # Setup Data Source Budget link
 DATA_SOURCE_BUDGET      = 'http://www.transparencia-cheste.es/area/Transparencia-Economico-Financiera'

@@ -4,7 +4,7 @@ from budget_app.models import Budget
 
 
 payments_mapping = {
-    'default': {'fc_code': 2, 'date': 5, 'payee': 7, 'description': 8, 'amount': 9},
+    'default': {'fc_code': 1, 'date': 4, 'payee': 5, 'description': 7, 'amount': 8},
 }
 
 

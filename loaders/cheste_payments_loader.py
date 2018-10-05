@@ -4,8 +4,8 @@ from budget_app.models import Budget
 
 
 payments_mapping = {
-    'default': {'fc_code': 1, 'date': 4, 'payee': 5, 'description': 7, 'amount': 8},
-    '2016': {'fc_code': 3, 'date': 6, 'payee': 4, 'description': 5, 'amount': 2}
+    '2018': {'fc_code': 1, 'date': 4, 'payee': 5, 'description': 7, 'amount': 8},
+    'default': {'fc_code': 3, 'payee': 4, 'description': 5, 'amount': 2}
 }
 
 
@@ -29,14 +29,21 @@ class ChestePaymentsLoader(PaymentsLoader):
         # Mapper
         mapper = PaymentsCsvMapper(budget.year)
 
+        # We got the functional codes
+        fc_code = line[mapper.fc_code].strip()
+
+        # We ignore lines with incomplete data
+        if not fc_code:
+            return None
+
         # First two digits of the programme make the policy id
-        policy_id = line[mapper.fc_code].strip()[:2]
+        policy_id = fc_code[:2]
 
         # But what we want as area is the policy description
         policy = Budget.objects.get_all_descriptions(budget.entity)['functional'][policy_id]
 
-        # We got an iso date
-        date = line[mapper.date]
+        # We got an iso date or nothing
+        date = line[mapper.date] if mapper.date else None
 
         # Payee data
         payee = line[mapper.payee].strip()

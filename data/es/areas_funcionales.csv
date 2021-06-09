@@ -92,11 +92,13 @@
 4,2,2,0,Industria
 4,3,1,0,Comercio
 4,3,2,0,Información y promoción turística
+4,3,3,0,Desarrollo empresarial
 4,5,4,0,Caminos vecinales
 9,1,2,0,Órganos de gobierno
 9,2,0,0,Administración general
 9,2,2,0,Coordinación y organización institucional de las entidades locales
 9,2,4,0,Participación ciudadana
+9,2,9,0,Imprevistos y gastos no clasificados
 9,3,2,0,Gestión del sistema tributario
 9,3,3,0,Gestión del patrimonio
 9,3,4,0,Gestión de la deuda y de la tesorería

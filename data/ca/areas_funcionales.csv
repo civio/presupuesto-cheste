@@ -96,11 +96,13 @@
 4,2,2,0,Indústria
 4,3,1,0,Comerç
 4,3,2,0,Informació i promoció turística
+4,3,3,0,Desenvolupament empresarial
 4,5,4,0,Camins veïnals
 9,1,2,0,Òrgans de govern
 9,2,0,0,Administració general
 9,2,2,0,Coordinació i organització institucional de les entitats locals
 9,2,4,0,Participació ciutadana
+9,2,9,0,Imprevistos i despeses no classificats
 9,3,2,0,Gestió del sistema tributari
 9,3,3,0,Gestió del patrimoni
 9,3,4,0,Gestió del deute i de la tresoreria

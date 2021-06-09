@@ -523,6 +523,7 @@ G,9,4,1,Devolución de fianzas
 #
 # Conceptos específicos de Cheste
 #
+G,3,9,8,Otros gastos financieros
 G,4,8,0,Atenciones beneficas y asistenciales
 G,4,8,1,Premios y becas de estudio e investigacion
 G,4,8,9,Subvenciones concejalia educación
